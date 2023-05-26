@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daron532
-- 👀 I’m interested in coding in Java
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in coding in Java , Python
+- 🌱 I’m currently learning Coding in various languages and Web development.
 - 💞️ I’m looking to collaborate on open source coding projects based in C++
 - 📫 Contact me on daron8099@gmail.com for future collabs and group projects
 

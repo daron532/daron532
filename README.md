@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daron532
-- 👀 I’m interested in coding in Java , Python
+- 👀 I’m a chess afficionado looking for adrenaline boosting kicks 
 - 🌱 I’m currently learning Coding in various languages and Web development.
-- 💞️ I’m looking to collaborate on open source coding projects based in C++
+- 💞️ I’m looking to collaborate on open source coding projects based in Java and C++
 - 📫 Contact me on daron8099@gmail.com for future collabs and group projects
 
 <!---
